@@ -19,10 +19,12 @@ The Hospital Management System in ASP.NET is a comprehensive web-based applicati
 - **SQL Server 2021**
 
 ## Screenshot
-![Homepage Screenshot](homepage1.png)
+### Homepage
+![Homepage Screenshot](homepage1.PNG)
 
-![Homepage Screenshot](homepage2.png)
+### Appointment Page
+![Appointment Page Screenshot](appointment.PNG)
 
-![Appointment Screenshot](appointment.png)
-
+### Sign and Register Screenshot
+![Additional Screenshot](signin.PNG)
 
